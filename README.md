@@ -1,16 +1,32 @@
-## Hi there 👋
+# Kayky Leandro✍🏾
 
-<!--
-**KaykyLeandro/KaykyLeandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`$programador.areas = [frontend, gamedev]`**
 
-Here are some ideas to get you started:
+Desenvolvedor Front-end, mas também... crio jogos como Hobbie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente cursando Ciência da computação, e após isso, me formarei em Game Design!🎮
+
+Programação é a minha maior vocação 💖 Construir coisas, melhorá-las, e resolver problemas, é o que mais me faz feliz! 🛠️💻 Por essa razão, estou aqui...
+
+<br><br>
+
+## Tecnologias
+
+<div>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/orange" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/orange" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/orange" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/angular/orange" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git/orange" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/unity/orange" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/unrealengine/orange" />
+</div>
+
+<br><br>
+
+## Atividade
+
+<div>  
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaykyLeandro&theme=synthwave"></img>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=KaykyLeandro&theme=synthwave"></img>
+</div>
